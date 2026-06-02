@@ -54,12 +54,12 @@ How Businesses Can Use This Forecast
 - Identify periods of high and low demand
 - Reduce losses due to overstocking or stock shortages
 
-##Conclusion
+## Conclusion
 
 The Random Forest model successfully learned sales patterns from historical data and generated useful sales forecasts. These predictions can support business decision-making and planning activities.
 
-##Author
+## Author
 
 Bhavani Vijjana
 
-##Future Interns - Machine Learning Internship
+## Future Interns - Machine Learning Internship
